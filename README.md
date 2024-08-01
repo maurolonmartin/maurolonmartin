@@ -29,7 +29,7 @@ _Description of the project, what technologies were used, and what you learned o
 ### [Another Project](https://github.com/maurolonmartin/another-project)
 _Description of the project, what technologies were used, and what you learned or achieved._
 
-## ## 📈 Frontend Road Map
+## 📈 Frontend Road Map
 [![roadmap.sh](https://roadmap.sh/card/tall/66abad2519ba71f57bfc639f?variant=dark&roadmaps=frontend)](https://roadmap.sh)
 
 ## 📈 GitHub Stats
