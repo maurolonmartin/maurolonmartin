@@ -23,10 +23,10 @@ Welcome to my GitHub profile! I'm an enthusiastic developer passionate about fro
 
 Here are some of my notable projects:
 
-### [Project Name](https://github.com/maurolonmartin/angular-adv-adminpro)
+### [Angular Admin Pro](https://github.com/maurolonmartin/angular-adv-adminpro)
 _Developed in angular 13 for the front end and C# for backend (in process)_
 
-### [Another Project](https://github.com/maurolonmartin/react-citasApp)
+### [React Citas App](https://github.com/maurolonmartin/react-citasApp)
 _Developed in React for get some knowlegde in React_
 
 ## 📈 Frontend Road Map
