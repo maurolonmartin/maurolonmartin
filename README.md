@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm an enthusiastic developer passionate about fro
 ## 🛠 Skills and Technologies
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Next.js
-- **Tools:** Git, Node.js, npm, Webpack
+- **Frameworks/Libraries:** Angular 2+, React, Next.js
+- **Tools:** Git, Node.js, npm, Webpack, **AWS**
 - **Databases:** Basic knowledge of SQL and NoSQL databases
 
 ## 📂 Projects
